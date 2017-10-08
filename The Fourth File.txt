@@ -1,2 +1,5 @@
 I am researching on the git now
 
+I am updating this file from the GITHUB host and would like to see thes changes on my local repository.
+
+Lets see how this works
